@@ -1,0 +1,14 @@
+C:\Users\charl\Documents\School programmeren\M1Prog_cs1\C#\02_var\variableopdracht2\bin\Debug\net9.0\variableopdracht2.exe
+C:\Users\charl\Documents\School programmeren\M1Prog_cs1\C#\02_var\variableopdracht2\bin\Debug\net9.0\variableopdracht2.deps.json
+C:\Users\charl\Documents\School programmeren\M1Prog_cs1\C#\02_var\variableopdracht2\bin\Debug\net9.0\variableopdracht2.runtimeconfig.json
+C:\Users\charl\Documents\School programmeren\M1Prog_cs1\C#\02_var\variableopdracht2\bin\Debug\net9.0\variableopdracht2.dll
+C:\Users\charl\Documents\School programmeren\M1Prog_cs1\C#\02_var\variableopdracht2\bin\Debug\net9.0\variableopdracht2.pdb
+C:\Users\charl\Documents\School programmeren\M1Prog_cs1\C#\02_var\variableopdracht2\obj\Debug\net9.0\variableopdracht2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\charl\Documents\School programmeren\M1Prog_cs1\C#\02_var\variableopdracht2\obj\Debug\net9.0\variableopdracht2.AssemblyInfoInputs.cache
+C:\Users\charl\Documents\School programmeren\M1Prog_cs1\C#\02_var\variableopdracht2\obj\Debug\net9.0\variableopdracht2.AssemblyInfo.cs
+C:\Users\charl\Documents\School programmeren\M1Prog_cs1\C#\02_var\variableopdracht2\obj\Debug\net9.0\variableopdracht2.csproj.CoreCompileInputs.cache
+C:\Users\charl\Documents\School programmeren\M1Prog_cs1\C#\02_var\variableopdracht2\obj\Debug\net9.0\variableopdracht2.dll
+C:\Users\charl\Documents\School programmeren\M1Prog_cs1\C#\02_var\variableopdracht2\obj\Debug\net9.0\refint\variableopdracht2.dll
+C:\Users\charl\Documents\School programmeren\M1Prog_cs1\C#\02_var\variableopdracht2\obj\Debug\net9.0\variableopdracht2.pdb
+C:\Users\charl\Documents\School programmeren\M1Prog_cs1\C#\02_var\variableopdracht2\obj\Debug\net9.0\variableopdracht2.genruntimeconfig.cache
+C:\Users\charl\Documents\School programmeren\M1Prog_cs1\C#\02_var\variableopdracht2\obj\Debug\net9.0\ref\variableopdracht2.dll

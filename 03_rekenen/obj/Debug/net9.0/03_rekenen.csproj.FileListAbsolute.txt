@@ -1,0 +1,4 @@
+C:\Users\charl\Documents\School programmeren\M1Prog_cs1\C#\03_rekenen\obj\Debug\net9.0\03_rekenen.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\charl\Documents\School programmeren\M1Prog_cs1\C#\03_rekenen\obj\Debug\net9.0\03_rekenen.AssemblyInfoInputs.cache
+C:\Users\charl\Documents\School programmeren\M1Prog_cs1\C#\03_rekenen\obj\Debug\net9.0\03_rekenen.AssemblyInfo.cs
+C:\Users\charl\Documents\School programmeren\M1Prog_cs1\C#\03_rekenen\obj\Debug\net9.0\03_rekenen.csproj.CoreCompileInputs.cache

@@ -1,0 +1,14 @@
+C:\Users\charl\Documents\School programmeren\M1Prog_cs1\C#\02_var\Stringvar\bin\Debug\net9.0\Stringvar.exe
+C:\Users\charl\Documents\School programmeren\M1Prog_cs1\C#\02_var\Stringvar\bin\Debug\net9.0\Stringvar.deps.json
+C:\Users\charl\Documents\School programmeren\M1Prog_cs1\C#\02_var\Stringvar\bin\Debug\net9.0\Stringvar.runtimeconfig.json
+C:\Users\charl\Documents\School programmeren\M1Prog_cs1\C#\02_var\Stringvar\bin\Debug\net9.0\Stringvar.dll
+C:\Users\charl\Documents\School programmeren\M1Prog_cs1\C#\02_var\Stringvar\bin\Debug\net9.0\Stringvar.pdb
+C:\Users\charl\Documents\School programmeren\M1Prog_cs1\C#\02_var\Stringvar\obj\Debug\net9.0\Stringvar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\charl\Documents\School programmeren\M1Prog_cs1\C#\02_var\Stringvar\obj\Debug\net9.0\Stringvar.AssemblyInfoInputs.cache
+C:\Users\charl\Documents\School programmeren\M1Prog_cs1\C#\02_var\Stringvar\obj\Debug\net9.0\Stringvar.AssemblyInfo.cs
+C:\Users\charl\Documents\School programmeren\M1Prog_cs1\C#\02_var\Stringvar\obj\Debug\net9.0\Stringvar.csproj.CoreCompileInputs.cache
+C:\Users\charl\Documents\School programmeren\M1Prog_cs1\C#\02_var\Stringvar\obj\Debug\net9.0\Stringvar.dll
+C:\Users\charl\Documents\School programmeren\M1Prog_cs1\C#\02_var\Stringvar\obj\Debug\net9.0\refint\Stringvar.dll
+C:\Users\charl\Documents\School programmeren\M1Prog_cs1\C#\02_var\Stringvar\obj\Debug\net9.0\Stringvar.pdb
+C:\Users\charl\Documents\School programmeren\M1Prog_cs1\C#\02_var\Stringvar\obj\Debug\net9.0\Stringvar.genruntimeconfig.cache
+C:\Users\charl\Documents\School programmeren\M1Prog_cs1\C#\02_var\Stringvar\obj\Debug\net9.0\ref\Stringvar.dll
